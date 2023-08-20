@@ -1,10 +1,4 @@
 # Playwright_PageObjectModel
-Based on WebdriverIO Tutorials by Raghav Pal 
-
-https://youtu.be/rAec3mZFhF0
-***
-This project was created by [Raghav Pal](https://automationstepbystep.com/about-me/) while doing a DEMO tutorial on How to create Page Object Model framework in Playwright
-This is done on a Node project with JavaScript
 
 ### Tools & Technologies
 * Node JS
@@ -40,5 +34,4 @@ Step 3 - Open terminal/cmd > Goto project folder > Run command
 * Step 9 - In test file, import the page class, create instance of it, & use methods from LoginPage class
 * Step 10 - Run the test **`npx playwright test`** and check results
 
-***
 

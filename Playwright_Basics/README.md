@@ -58,7 +58,7 @@ Web automation testing using playwright
 
 > npx playwright show-report
   
-## Auto generate tests with Codegen and url.
+### Auto generate tests with Codegen and url.
 
 > npx playwright codegen pasteSiteUrl
 

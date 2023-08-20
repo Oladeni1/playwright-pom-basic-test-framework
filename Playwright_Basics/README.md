@@ -1,4 +1,4 @@
-### Playwriht web automation test framework
+### Playwright web automation test framework
 
 Web automation testing using playwright
 
